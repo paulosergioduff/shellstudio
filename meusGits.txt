@@ -19,3 +19,4 @@ git push origin SDN0003_20180527
 Retomando alterações: Créditos https://pt.stackoverflow.com/questions/45077/como-recuperar-o-commit-anterior
 git reset HEAD~1
 git reset --hard HEAD~1
+git push -f origin <branch>
