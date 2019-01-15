@@ -1,5 +1,6 @@
 sudo add-apt-repository ppa:ondrej/php
 sudo apt-get update
+sudo apt-get install aptitude
 sudo aptitude install php7.1
 
 sudo add-apt-repository ppa:ondrej/apache2
